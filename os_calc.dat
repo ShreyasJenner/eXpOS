@@ -1,0 +1,8 @@
+lpn = 5
+offset = 440
+pta = 29696
+ppn = 29696 + 2 x lpn
+
+pa = ppn x 512 + offset
+
+29704
